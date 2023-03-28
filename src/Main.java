@@ -4,6 +4,7 @@ public class Main {
         solar.sun="1";
         solar.moon="2";
         solar.planets="3";
+        solar.astroids="1000000000";
 
     }
 }
